@@ -1,8 +1,8 @@
-# Octal to Decimal Decoder
+# Octal to Decimal Converter
 
 ## Overview
 
-This project was completed as part of my **BSc (Hons) Computer Science** coursework. The objective was to develop a Python program capable of converting one or more **octal (base-8)** numbers into their **decimal (base-10)** equivalents.
+This project develops a Python program capable of converting one or more **octal (base-8)** numbers into their **decimal (base-10)** equivalents.
 
 Rather than relying on Python's built-in conversion functions, the solution manually performs the conversion by applying the mathematical method of multiplying each digit by the appropriate power of 8 before summing the results. This demonstrates an understanding of number systems, loops, string manipulation and algorithm design.
 
@@ -27,10 +27,9 @@ Rather than relying on Python's built-in conversion functions, the solution manu
 ## Project Structure
 
 ```text
-Task_03/
+python-octal-to-decimal-converter/
 │
 ├── decoder.py          # Main solution containing the decode() function.
-├── helper_3.py         # Original helper file supplied for coursework testing.
 └── test_decoder.py     # Additional test program created to verify functionality.
 ```
 
@@ -68,7 +67,6 @@ For each octal number, the program:
 
 Two methods were used to verify the program:
 
-- **Official helper file** supplied with the coursework to confirm the solution met the required specification.
 - **Custom test program** created to perform additional testing and demonstrate independent verification of the solution.
 
 The custom tests include:
