@@ -26,12 +26,10 @@ Rather than relying on Python's built-in conversion functions, the solution manu
 
 ## Project Structure
 
-```text
-python-octal-to-decimal-converter/
-│
-├── decoder.py          # Main solution containing the decode() function.
-└── test_decoder.py     # Additional test program created to verify functionality.
-```
+| File | Description |
+|------|-------------|
+| decoder.py | Main solution containing the decode() function |
+| test_decoder.py | Additional test program created to verify functionality |
 
 ---
 
