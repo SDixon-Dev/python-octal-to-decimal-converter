@@ -106,7 +106,3 @@ Through completing this project I developed a stronger understanding of:
 ## Author
 
 **Sean Dixon**
-
-Computer Science Graduate (BSc Hons)
-
-This repository forms part of my programming portfolio and demonstrates fundamental Python programming and algorithm implementation skills.
